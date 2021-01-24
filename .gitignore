@@ -1,0 +1,5 @@
+vendor/
+testusers/
+
+.env
+composer.lock
